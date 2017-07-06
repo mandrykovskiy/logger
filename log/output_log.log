@@ -1,0 +1,5 @@
+2017-07-06 21:26:11 INFO  HelloWorld:9 - Method is started
+2017-07-06 21:26:11 WARN  HelloWorld:10 - you are going yo divide by zero!
+2017-07-06 21:26:11 ERROR HelloWorld:14 - can't divide by zero
+java.lang.ArithmeticException: / by zero
+	at com.HelloWorld.main(HelloWorld.java:12)

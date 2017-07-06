@@ -1,0 +1,3 @@
+ERROR main HelloWorld - can't divide by zero
+java.lang.ArithmeticException: / by zero
+	at com.HelloWorld.main(HelloWorld.java:24)
